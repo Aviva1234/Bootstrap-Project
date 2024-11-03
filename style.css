@@ -9,3 +9,22 @@ body{
     background-color: darkgreen;
     color:bisque;
 }
+.bg-2{
+    background-color:aquamarine;
+    color:beige;
+}
+#hiker{
+    width: 40%;
+}
+.navbar{
+    margin-bottom: 1%;
+    padding: 1%;
+}
+.nav-item{
+color:blanchedalmond;
+margin-left: 15px;
+margin-right: 15px;
+}
+.navbar-toggler-icon{
+    color: deeppink;
+}
